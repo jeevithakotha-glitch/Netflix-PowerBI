@@ -31,17 +31,6 @@ Dashboard Features
 - Content trends by release year
 - Interactive charts and filters
 
-Project Structure
-
-Netflix-Dashboard/
-├── screenshots/
-│   └── netflix-overview.png
-├── data/
-│   └── netflix_titles.csv
-├── powerbi/
-│   └── Netflix-Dashboard.pbix
-└── README.md
-
 How to Use
 
 1. Download or clone this repository.
